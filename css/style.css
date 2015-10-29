@@ -1,0 +1,41 @@
+body {
+	background: url('../img/jays.png') repeat #FF0000;
+	background-size: 30px;
+	color: black;
+	font: italic 900 20px Raleway, Arial, Helvetica, sans-serif;
+}
+
+h2 {
+	font-size: 32px;
+	color: blue;
+}
+
+.first h2 {
+	color: tomato;
+}
+
+section p {
+
+}
+
+
+
+.first {
+	background-color: yellow;
+}
+
+section {
+	background-color: red;
+}
+
+.objective {
+	background-color: orange;
+}
+
+
+
+
+
+
+
+

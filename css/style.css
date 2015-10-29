@@ -1,13 +1,17 @@
 body {
-	background: url('../img/jays.png') repeat #FF0000;
-	background-size: 30px;
-	color: black;
-	font: italic 900 20px Raleway, Arial, Helvetica, sans-serif;
+	background: #EEE;
+	color: #222;
+	font: italic 900 18px Raleway, Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	font-size: 48px;
+	color: #666;
 }
 
 h2 {
 	font-size: 32px;
-	color: blue;
+	color: #666;
 }
 
 .first h2 {
@@ -18,19 +22,14 @@ section p {
 
 }
 
-
-
-.first {
+.highlight {
 	background-color: yellow;
 }
 
 section {
-	background-color: red;
+	border-top: 1px solid #666;
 }
 
-.objective {
-	background-color: orange;
-}
 
 
 
